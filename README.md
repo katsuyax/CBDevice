@@ -4,14 +4,14 @@
 
 ```
     dependencies: [
-        .package(url: "https://github.com/katsuyax/CBDevice, from: "1.0.1"),
+        .package(url: "https://github.com/katsuyax/CBDevice, from: "1.0.2"),
     ]
 ```
 
 ### CocoaPods
 
 ```
-pod 'CBDevice'
+pod 'CBDevice', '>= 1.0.2'
 ```
 
 ## Usage
