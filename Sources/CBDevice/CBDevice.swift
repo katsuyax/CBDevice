@@ -193,6 +193,14 @@ extension CBDevice {
             "iPad14,5-B": "iPad Pro 12.9inch 6th",
             "iPad14,6-A": "iPad Pro 12.9inch 6th",
             "iPad14,6-B": "iPad Pro 12.9inch 6th",
+            "iPad14,8": "iPad Air 6th 11inch",
+            "iPad14,9": "iPad Air 6th 11inch",
+            "iPad14,10": "iPad Air 6th 13inch",
+            "iPad14,11": "iPad Air 6th 13inch",
+            "iPad16,3": "iPad Pro 11inch 5th",
+            "iPad16,4": "iPad Pro 11inch 5th",
+            "iPad16,5": "iPad Pro 13inch 1st",
+            "iPad16,6": "iPad Pro 13inch 1st",
 
             // iPod touch
             "iPod1,1"   : "iPod touch",

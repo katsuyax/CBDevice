@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
   spec.name         = "CBDevice"
-  spec.version      = "1.0.2"
-  spec.summary      = "Get model name and code of the iOS devices."
+  spec.version      = "1.0.3"
+  spec.summary      = "Get model name and code of the iOS / iPadOS devices."
   spec.homepage     = "https://github.com/katsuyax"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "Katsuya Kato" => "crossbridge.kato@gmail.com" }
