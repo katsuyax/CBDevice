@@ -4,14 +4,14 @@
 
 ```
     dependencies: [
-        .package(url: "https://github.com/katsuyax/CBDevice, from: "1.0.3"),
+        .package(url: "https://github.com/katsuyax/CBDevice, from: "1.0.4"),
     ]
 ```
 
 ### CocoaPods
 
 ```
-pod 'CBDevice', '>= 1.0.3'
+pod 'CBDevice', '>= 1.0.4'
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ pod 'CBDevice', '>= 1.0.3'
 import CBDevice
 
 print(CBDevice.modelName()) // ex) iPhone 15
-print(CBDevice.modelCode()) // ex) iPhone16,1
+print(CBDevice.modelCode()) // ex) iPhone 16,1
 ```
 
 ## Supported devices
