@@ -20,7 +20,7 @@ pod 'CBDevice', '>= 1.0.4'
 import CBDevice
 
 print(CBDevice.modelName()) // ex) iPhone 15
-print(CBDevice.modelCode()) // ex) iPhone 16,1
+print(CBDevice.modelCode()) // ex) iPhone16,1
 ```
 
 ## Supported devices
