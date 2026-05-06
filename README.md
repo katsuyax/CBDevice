@@ -4,14 +4,8 @@
 
 ```
     dependencies: [
-        .package(url: "https://github.com/katsuyax/CBDevice, from: "1.0.4"),
+        .package(url: "https://github.com/katsuyax/CBDevice", from: "1.1.0"),
     ]
-```
-
-### CocoaPods
-
-```
-pod 'CBDevice', '>= 1.0.4'
 ```
 
 ## Usage
@@ -25,7 +19,7 @@ print(CBDevice.modelCode()) // ex) iPhone16,1
 
 ## Supported devices
 
-iPhone/iPad/iPod touch released by September 2024
+iPhone/iPad/iPod touch released by 2026
 
 ## License
 
