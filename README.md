@@ -19,7 +19,7 @@ print(CBDevice.modelCode()) // ex) iPhone16,1
 
 ## Supported devices
 
-iPhone/iPad/iPod touch released by 2026
+iPhone/iPad/iPod touch models checked on October 13, 2026.
 
 ## License
 
